@@ -21,6 +21,10 @@ BAGIAN MEMBUAT REPOSIORY LOKAL
 
 ![image](https://user-images.githubusercontent.com/56445770/67139996-52c6b280-f280-11e9-87c0-7e49acbafa5a.png)
 
+6.	Setelah itu kembali kedalam aplikasi Git Bash lalu ketik cd latihan1 untuk masuk kedalam direktori tersebut
+
+![image](https://user-images.githubusercontent.com/56445770/67140469-e306f680-f284-11e9-85a8-4a4668e60a4d.png)
+
 7.	Jalankan perintah git init, untuk membuat repository local
 
 ![image](https://user-images.githubusercontent.com/56445770/67140036-a6390080-f280-11e9-8c61-3af7339e06b9.png)
