@@ -21,12 +21,6 @@ BAGIAN MEMBUAT REPOSIORY LOKAL
 
 ![image](https://user-images.githubusercontent.com/56445770/67139996-52c6b280-f280-11e9-87c0-7e49acbafa5a.png)
 
-
-6.	Setelah itu kembali kedalam aplikasi Git Bash lalu ketik cd latihan1 untuk masuk kedalam direktori tersebut 
-
-![image](https://user-images.githubusercontent.com/56445770/67140026-87d30500-f280-11e9-8f03-2ab87a62e6c2.png)
-
-
 7.	Jalankan perintah git init, untuk membuat repository local
 
 ![image](https://user-images.githubusercontent.com/56445770/67140036-a6390080-f280-11e9-8c61-3af7339e06b9.png)
@@ -69,7 +63,8 @@ BAGIAN MEMBUAT REPOSIORY SERVER
 
 6.	lalu ketik lagi perintah git push –u origin master 
 	
-![image](https://user-images.githubusercontent.com/56445770/67140185-2318aa00-f282-11e9-96f5-07b8a7a87c4c.png)
+![image](https://user-images.githubusercontent.com/56445770/67140264-26606580-f283-11e9-8339-9cd04266b497.png)
+
 
 7.	jika berhasil akan seperti gambar di bawah, dan file README.md sudah berada di reposiory latihan 1 di Github.com yang tadi di buat
 
